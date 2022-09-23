@@ -44,7 +44,7 @@ const Uicard = () => {
             className="flex-shrink-0 bg-[#8AAAE5] hover:bg-[#4684f6] border-[#8AAAE5] hover:border-[#4684f6] text-sm border-4 text-black py-1 px-2 rounded"
             type="button"
           >
-            Search
+            Search 
           </button>
         </div>
       </form>
